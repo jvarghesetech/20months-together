@@ -17,7 +17,7 @@ A hand-crafted anniversary website made with love for my girlfriend. Built with 
 - **Infinite scrolling strip** : photos drifting across the screen
 - **Full-bleed feature** : our favourite photo + a little love note
 - **Lightbox** : click any photo to see it fullscreen
-- **Gold & lily aesthetic** : because she's a gold girl 🌺
+- **Gold & lily aesthetic** : because she's a gold girl 
 
 ---
 
