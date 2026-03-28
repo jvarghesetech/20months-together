@@ -12,18 +12,18 @@ A hand-crafted anniversary website made with love for my girlfriend. Built with 
 
 ## ✨ What's Inside
 
-- **Hero** — giant "20" typography with our photos blurred behind it
-- **Mosaic gallery** — all our moments in a magazine-style photo grid
-- **Infinite scrolling strip** — photos drifting across the screen
-- **Full-bleed feature** — our favourite photo + a little love note
-- **Lightbox** — click any photo to see it fullscreen
-- **Gold & lily aesthetic** — because she's a gold girl 🌺
+- **Hero** : giant "20" typography with our photos blurred behind it
+- **Mosaic gallery** : all our moments in a magazine-style photo grid
+- **Infinite scrolling strip** : photos drifting across the screen
+- **Full-bleed feature** : our favourite photo + a little love note
+- **Lightbox** : click any photo to see it fullscreen
+- **Gold & lily aesthetic** : because she's a gold girl 🌺
 
 ---
 
 ## 🛠 Built With
 
-- HTML5 / CSS3 / Vanilla JS
+- HTML5 / CSS3 / JS
 - Google Fonts — Unbounded, Cormorant Garamond, DM Sans
 - All photos embedded as base64 (no external dependencies)
 
